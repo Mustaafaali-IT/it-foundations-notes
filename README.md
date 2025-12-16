@@ -2,19 +2,19 @@
 
 # 
 
-# This repository contains notes and practice from my IT learning journey.
+#### This repository contains notes and practice from my IT learning journey.
 
 # 
 
 # \## Topics I’m working on
 
-# \- Linux fundamentals
+#### \- Linux fundamentals
 
-# \- Networking basics
+#### \- Networking basics
 
-# \- PC hardware and troubleshooting
+#### \- PC hardware and troubleshooting
 
-# \- IT support tools and workflows
+#### \- IT support tools and workflows
 
 # 
 
